@@ -101,5 +101,5 @@ ENV/
 .mypy_cache/
 
 # DS store
-.DS_store
+.DS_Store
 
